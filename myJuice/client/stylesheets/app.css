@@ -12,3 +12,8 @@ body {
   .sk-spinner-rotating-plane.sk-spinner {
     background-color: #fff;
   }
+
+  .login-link-text
+{
+  color: rgba(255,255,255,.5) !important;
+}
